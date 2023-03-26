@@ -1,0 +1,12 @@
+{
+	"name": "alexp1tpcdsacctpoc",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://alexp1tpcdsacctpoc.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQERBMzU5ODk1LTVEMkMtNDY0RS04RUU2LTQxMEFGN0E4NEZENF83ZGY5ZThmMC1hMjk0LTRiNjctOWMxOC0zYWJmYjVjZWJkY2IiDQp9"
+		}
+	}
+}

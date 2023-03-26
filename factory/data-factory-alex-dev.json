@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-alex-dev",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cf880171-3a58-45bb-946d-9e398033ee42",
+		"tenantId": "dd094e14-b3f8-4eb8-87e3-d817fee54de3"
+	}
+}
